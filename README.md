@@ -37,9 +37,9 @@ Aplicativo desenvolvido em React Native com Expo para o monitoramento de eventos
 
 ## 👥 Integrantes
 
-- Fabrício Saavedra – RA: 97631  
-- Guilherme Akio – RA: 98582  
-- Açussena Macedo Mautone – RA: 552568
+- Fabrício Saavedra – RM: 97631  
+- Guilherme Akio – RM: 98582  
+- Açussena Macedo Mautone – RM: 552568
 
 ## 📦 Instalação e Execução
 
